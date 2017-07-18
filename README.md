@@ -1,3 +1,2 @@
 # My-New-repository
 hlooo...
-How to host website for free with github pages - the painless way
